@@ -9,12 +9,16 @@ sudo apt install git-all
 
 2. Configure
 
-git config --global user.name pranay
+    git config --global user.name pranay
 
-git config --global user.email pranay@soal.io
+    git config --global user.email pranay@soal.io
+
+
 
 3. Initialize Git 
- git init
+   git init
+
+
 
 How to commit?
   1. Make some change ie. adding a new file or modify existing one
