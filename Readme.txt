@@ -20,3 +20,18 @@ How to commit?
   3. git commit    
          opens a edit to write the commit message
 
+
+
+How to view the commits /logs
+
+ $ git log
+ $ git log --oneline
+ 
+To See the difference between my file in working directory  to file in the staging area
+ git diff  <fileName>
+
+To see the change between my file in staging area and the same file in local repository 
+git diff --staged
+
+
+ 
