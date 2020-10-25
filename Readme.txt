@@ -1,15 +1,19 @@
+-------------------------------
 Git Basic
+-----------------------------
 
-Install 
+
+
+1. Install 
 sudo apt install git-all
 
-Configure
+2. Configure
 
 git config --global user.name pranay
 
 git config --global user.email pranay@soal.io
 
-Initialize Git 
+3. Initialize Git 
  git init
 
 How to commit?
