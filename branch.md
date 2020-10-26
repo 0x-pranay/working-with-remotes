@@ -5,5 +5,9 @@
 
 ## switch to the new Branch
  ` git checkout <newBranchName>`
+ 
+ ## Create a new branch and switch to it
+   `git checkout -b <newBranchName>`
+   
 
 
