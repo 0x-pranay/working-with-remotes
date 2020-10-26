@@ -1,3 +1,7 @@
+A Simple repostiory to expalin how to use git and colloborate using github.
+
+
+
 -------------------------------
 Git Basic
 -----------------------------
